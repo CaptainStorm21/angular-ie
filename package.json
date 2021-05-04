@@ -42,5 +42,7 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.9.5"
-  }
+  },
+    "start": "ng serve",
+    "ie": "ng serve -c es5"
 }
